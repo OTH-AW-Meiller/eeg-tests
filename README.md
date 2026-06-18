@@ -2,6 +2,16 @@
 
 ## Auswertung eine EEG-Usability-Test-Sesstion
 
+## Bedeutung der Wellenformen
+
+### Alpha-Wellen (hier: Blau)
+
+* Entspannung, innere Ruhe
+
+### Beta-Wellen (hier: Rot)
+
+* geistige Aktivität, Konzentration bis Stress
+
 Dieses Projekt besteht aus zwei Schritten:
 
 1. `gen_report.ipynb` ausfuehren, um die EEG-Auswertung und die benoetigten Ausgabe-Dateien zu erzeugen.
