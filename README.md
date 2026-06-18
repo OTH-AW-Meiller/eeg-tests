@@ -73,6 +73,8 @@ Die Ordnerstruktur sollte also so aussehen:
 eeg_tests/
 ├── data/
 │   └── eeg_data.txt
+├── output/
+│   └── ...
 ├── gen_report.ipynb
 ├── gen_movie.sh
 └── movie.mp4
